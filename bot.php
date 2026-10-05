@@ -1,6 +1,6 @@
 <?php
 
-$BOT_TOKEN = getenv('BOT_TOKEN');
+$BOT_TOKEN = getenv('8265307435:AAFcSRIaSLJyKNcFuyVR5YCLflplRD_XrIw');
 
 $input = file_get_contents('php://input');
 $data = json_decode($input, true);
